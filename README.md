@@ -13,3 +13,5 @@ Wiper system is a inseperable aspect is modern automobiles especially 4-wheelers
 [![Unit testing](https://github.com/Govindharaju19/M3_WIPER_CONTROL_SYSTEM_PROJECT-2022/actions/workflows/unit_Testing.yml/badge.svg)](https://github.com/Govindharaju19/M3_WIPER_CONTROL_SYSTEM_PROJECT-2022/actions/workflows/unit_Testing.yml)
 
 [![Valgrind](https://github.com/Govindharaju19/M3_WIPER_CONTROL_SYSTEM_PROJECT-2022/actions/workflows/Valgrind.yml/badge.svg)](https://github.com/Govindharaju19/M3_WIPER_CONTROL_SYSTEM_PROJECT-2022/actions/workflows/Valgrind.yml)
+
+[![cppcheck-action](https://github.com/Govindharaju19/M3_WIPER_CONTROL_SYSTEM_PROJECT-2022/actions/workflows/cpp%20check.yml/badge.svg)](https://github.com/Govindharaju19/M3_WIPER_CONTROL_SYSTEM_PROJECT-2022/actions/workflows/cpp%20check.yml)
